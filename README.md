@@ -93,7 +93,7 @@ The project follows a structured ML workflow:
 ## 📈 Results
 
 * Achieved strong performance across all classes
-* Improved prediction of minority classes (Dropout)
+* Improved prediction of minority classes (Enrolled)
 * Identified important predictors such as academic history and student demographics
 
 ---
@@ -124,20 +124,7 @@ jupyter notebook
 ## 📂 Dataset
 
 * UCI Student Dataset
-* Included in the repository / or link here
-
----
-
-## 📌 Project Structure
-
-```
-student-dropout-ml/
-│
-├── student_dropout_prediction.ipynb
-├── requirements.txt
-├── README.md
-└── data/
-```
+* link here: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
 
 ---
 
@@ -151,10 +138,10 @@ student-dropout-ml/
 
 ## 👤 Author
 
-**Your Name**
+**MUBEEN AKHUND**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: (optional)
+* GitHub: https://github.com/AkhundMubeen
+* LinkedIn: https://www.linkedin.com/in/mubeen-akhund-b3004335a/
 
 ---
 
