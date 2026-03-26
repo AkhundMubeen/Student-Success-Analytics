@@ -127,7 +127,7 @@ The project follows a structured ML workflow:
 
 ---
 
-## 🔍 Future Scope
+## Future Scope
 
 * Deployment as a web application
 * Integration with real-time student data systems
