@@ -1,10 +1,10 @@
-# 🎓 Student Dropout Prediction using Machine Learning
+# Student Dropout Prediction using Machine Learning
 
 > A complete end-to-end machine learning pipeline to predict student academic outcomes using the UCI Student Dataset, with a focus on handling class imbalance and optimizing multi-class performance.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Student dropout is a critical issue in education systems worldwide. Early identification of at-risk students can help institutions take proactive measures.
 
@@ -16,7 +16,7 @@ This project builds a **multi-class classification model** to predict whether a 
 
 ---
 
-## 🧠 Approach
+## Approach
 
 The project follows a structured ML workflow:
 
@@ -67,7 +67,7 @@ The project follows a structured ML workflow:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **Libraries:**
@@ -93,7 +93,7 @@ The project follows a structured ML workflow:
 
 ---
 
-## 📊 Key Highlights
+## Key Highlights
 
 * Built a **robust multi-class classification system**
 * Effectively handled **imbalanced data using SMOTE**
@@ -103,7 +103,7 @@ The project follows a structured ML workflow:
 
 ---
 
-## 📈 Results
+## Results
 
 * Achieved strong performance across all classes
 * Improved prediction of minority classes (Enrolled)
@@ -111,7 +111,7 @@ The project follows a structured ML workflow:
 
 ---
 
-## 🔬 Key Insights
+## Key Insights
 
 - Academic performance indicators strongly influence final outcomes  
 - Class imbalance significantly biases model predictions without correction  
@@ -120,30 +120,7 @@ The project follows a structured ML workflow:
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/AkhundMubeen/Predicting-Student-Dropout-A-Comprehensive-Academic-Success-Study.git
-cd Predicting-Student-Dropout-A-Comprehensive-Academic-Success-Study
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the notebook
-
-```bash
-jupyter notebook
-```
-
----
-
-## 📂 Dataset
+## Dataset
 
 * UCI Student Dataset
 * link here: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
@@ -158,7 +135,7 @@ jupyter notebook
 
 ---
 
-## 👤 Author
+## Author
 
 **MUBEEN AKHUND**
 
@@ -167,7 +144,7 @@ jupyter notebook
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 * UCI Machine Learning Repository
 * Open-source ML community
